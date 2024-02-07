@@ -1,0 +1,10 @@
+All Rights Reserved
+
+The entire contents of this repository are protected by copyright law.
+You are not allowed to use, modify, distribute, or sublicense any part of this
+code without explicit permission from the author.
+
+For inquiries about licensing or any other use of the code, please contact the author:
+
+[Your Name]
+[Your Email Address]
